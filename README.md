@@ -1,6 +1,6 @@
 # Authentication & Authorization Service
 
-A production-ready authentication and authorization service implementing OAuth2, JWT tokens, token refresh mechanisms, and Role-Based Access Control (RBAC).
+Built and studied a full OAuth2 + JWT authentication system to deeply understand modern authentication architecture.
 
 ## Features
 
